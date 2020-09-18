@@ -56,3 +56,22 @@ h1{
 #user-info-detail{
     margin: 20px 5px 0 0;
 }
+
+#user-info-detail-more{
+    font-size: 9px;
+    color: #013480;
+    text-align: right;
+}
+
+#user-info-dropdown{
+    margin: 20px -45px 0 0;
+}
+
+
+#user-info-dropdown-button{
+    width: 31px;
+    height: 31px;
+    border-radius: 8px;
+    border-color: transparent;
+    background-color: #D8EAFF;
+}
